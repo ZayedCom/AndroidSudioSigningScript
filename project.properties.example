@@ -1,0 +1,6 @@
+# Example only — copy to project.properties or let Signing Script create it.
+# Do not commit project.properties (it is machine-specific).
+
+projectRoot=C:\\Users\\You\\AndroidStudioProjects\\YourApp
+outDir=C:\\Users\\You\\Desktop\\YourApp
+appName=Your App

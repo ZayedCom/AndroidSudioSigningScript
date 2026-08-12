@@ -1,0 +1,23 @@
+# Local secrets and machine-specific paths — never commit these
+keystore.properties
+project.properties
+projects/
+projects/**
+
+# Password files used by convert-pkcs12-dual.py
+store-pass.txt
+key-pass.txt
+
+# Keystore / signing material
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
